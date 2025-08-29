@@ -8,3 +8,4 @@
 <img src="sh4.png">
 <img src="sh5.png">
 <img src="sh6.png">
+<img src="sh7.png">
