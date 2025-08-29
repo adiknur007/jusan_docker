@@ -1,3 +1,10 @@
 # jusan_docker
+<img src="ng.png">
 <img src="index.png">
- 
+<img src="sh.png">
+<img src="sh1.png">
+<img src="sh2.png">
+<img src="sh3.png">
+<img src="sh4.png">
+<img src="sh5.png">
+<img src="sh6.png">
